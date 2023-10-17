@@ -7,3 +7,6 @@ The production company wants to plan their every move analytically based on data
 
 
 -- Telegana Project
+
+We  analysed Telangana’s growth among different sectors quantitatively and provide useful Insights to the Telangana government that would help them to make data-informed
+decisions that would further support the growth of the state
