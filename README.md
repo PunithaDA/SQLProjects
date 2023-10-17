@@ -1,3 +1,4 @@
 # SQLProjects
-Movies Project
-Telegana Project
+Movies Project --
+
+-- Telegana Project
