@@ -7,7 +7,7 @@ They have usually released movies for Indian audience but for their next project
 The production company wants to plan their every move analytically based on data. We analysed the dataset and draw meaningful insights that can help them to start their new project
 
 
-##Telengana Growth Project
+## Telengana Growth Project
 ### Project Overview
 
 Analysed Telangana’s growth among different sectors quantitatively and provide useful Insights to the Telangana government that would help them to make data-informed
